@@ -18,7 +18,7 @@ c.execute("""
         completed BOOLEAN NOT NULL
     )
 """)
-
+ 
 conn.commit()
 
 # funciones
