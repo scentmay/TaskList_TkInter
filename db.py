@@ -2,7 +2,7 @@ from tkinter import *
 import sqlite3
 
 root = Tk()
-root.title('Hola mundo: todo list')
+root.title('ToDo list with TkInter')
 root.geometry('400x400')
 root.configure(background='#333333')
 
