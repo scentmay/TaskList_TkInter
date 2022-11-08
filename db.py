@@ -1,3 +1,5 @@
+# LISTA DE TAREAS USANDO LA LIBRERÍA TKINTER
+
 from tkinter import *
 import sqlite3
 
